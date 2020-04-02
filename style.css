@@ -56,6 +56,11 @@ ul li{margin:5px;}
 
 @media (max-width: 900px){
     #container{ width:98%;}
-    #title { width:100%; }
-    #main-contents{ width:98%; padding:0 1% 0 1%;}
+}
+
+@media (max-width: 600px){
+    #container{ width:98%; font-size:12px;}
+    #title{font-size:14px}
+    #title h1 {font-size:30px;}
+    #main-contents h2 {font-size:14px;}
 }
