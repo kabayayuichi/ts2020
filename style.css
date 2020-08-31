@@ -41,6 +41,10 @@ body {font-family: 'YuGothic','Hiragino Kaku Gothic Pro','Meiryo',sans-serif;
     border-bottom: 1px solid #000;
 }
 
+#main-contents p{
+    margin:10pt 10pt 10pt 10pt;
+}
+
 #schedule table {margin:15px auto 15px auto;}
 #schedule th {
     padding: 2px 10px 2px 0px;
